@@ -45,5 +45,10 @@ This prototype logs training sessions via **Google Forms → Google Sheets → D
 
 ---
 
+##  Dashboard View
+![Dashboard Screenshot](Dasdhboard%20v0.1.png)
+
+---
+
 ## Author
 Built by [@orlandorobson](https://github.com/orlandorobson) as part of an EdTech + AI learning journey (towards GITEX 2025, Dubai).
